@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40d94d6a.css",
+    "main.js": "/static/js/main.5297a174.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/a.mp4": "/static/media/a.3aa02cd629bfaa42d28a.mp4",
+    "static/media/bgimg.jpg": "/static/media/bgimg.2efdd0e86adc0efbf6a0.jpg",
+    "static/media/window.png": "/static/media/window.caabd3dea5de9431803d.png",
+    "static/media/Linefollowerrobot.jpg": "/static/media/Linefollowerrobot.1fd69d405bd3fa99346e.jpg",
+    "static/media/paperpresentation.jpg": "/static/media/paperpresentation.7b768e180f0507b49ec4.jpg",
+    "static/media/digitalposterpresentation.jpg": "/static/media/digitalposterpresentation.e539e6de90ed04796ade.jpg",
+    "static/media/logo1.png": "/static/media/logo1.2455b5a4207aaaf86efa.png",
+    "static/media/Robowar.jpg": "/static/media/Robowar.2f07f70f5ef3cadc910d.jpg",
+    "static/media/robotprogramming.jpg": "/static/media/robotprogramming.66b4a270fe08f4bc4254.jpg",
+    "static/media/Dronracing.jpg": "/static/media/Dronracing.8d16e4fa3db5e9a56836.jpg",
+    "static/media/e.jpg": "/static/media/e.3806295e9205dc04d31d.jpg",
+    "static/media/Roboexpo.jpg": "/static/media/Roboexpo.1668d59f9ebe94b18a53.jpg",
+    "static/media/contraption.jpg": "/static/media/contraption.01356d9628fe876ecce2.jpg",
+    "static/media/logo.png": "/static/media/logo.8f1adc1532e049e09df4.png",
+    "index.html": "/index.html",
+    "main.40d94d6a.css.map": "/static/css/main.40d94d6a.css.map",
+    "main.5297a174.js.map": "/static/js/main.5297a174.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d94d6a.css",
+    "static/js/main.5297a174.js"
+  ]
+}
